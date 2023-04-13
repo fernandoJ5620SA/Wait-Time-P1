@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JEAB9jdDsE23L86pMdBPIrcDgCA3DXlzeXPypxxg0DU5IFUwEjv/gZW4L82j2LXvhkFYqgt69rYktGzc4m2jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FernandoS\\Source\\Repos\\WaitTime-AppMovil\\WaitTime\\WaitTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FernandoS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\FernandoS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\FernandoS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\FernandoS\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\FernandoS\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Users\FernandoS\Source\Repos\WaitTime-AppMovil\WaitTime.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+C:\Users\FernandoS\Source\Repos\WaitTime-AppMovil\WaitTime.Android\obj\Debug\130\build.props
+C:\Users\FernandoS\Source\Repos\WaitTime-AppMovil\WaitTime.Android\obj\Debug\130\adb.props
+C:\Users\FernandoS\Source\Repos\WaitTime-AppMovil\WaitTime.Android\obj\Debug\130\WaitTime.Android.csproj.AssemblyReference.cache
+C:\Users\FernandoS\Source\Repos\WaitTime-AppMovil\WaitTime.Android\obj\Debug\130\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\FernandoS\Source\Repos\WaitTime-AppMovil\WaitTime.Android\obj\Debug\130\res.flag
